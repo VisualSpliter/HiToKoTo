@@ -1,0 +1,19 @@
+{
+    "id": "hitokoto",
+    "version": "2.0.2",
+    "name": "HiToKoTo",
+    "description":{
+        "en_us":"An MCDR Plugin Saying HiToKoTo When Player Login",
+        "zh_cn":"一个简单的MCDR插件在玩家登陆时自动“一言”"
+    },
+    "author": [
+        "MRNOBODY-ZST"
+    ], 
+    "link": "https://github.com/MRNOBODY-ZST/HITOKOTO-MCDR",
+    "dependences": {
+        "mcdreforged": ">=2.0.0"
+    },
+    "entrypoint": "hitokoto.hitokoto",
+    "archive_name": "Hitokoto-v{version}"
+
+}
